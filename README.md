@@ -1,4 +1,4 @@
 # repos-demo
 My first public repositories.
 <br>
-Author - Nandana Gopi
+Author - Nandana K G
